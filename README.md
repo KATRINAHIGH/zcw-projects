@@ -23,7 +23,7 @@ These projects catalog my progression through the bootcamp ordered according to 
 | [Research Report: ]( /JavaZipBook-v1)                        | Research Report Random                                      |
 | [OOP-Duplicate Deleter TDD]() Fix me                         | Arrays, loops, basic composition, interfaces                |
 | [Composition Phone Book]( /CR-MicroLabs-Composition-PhoneBook) | Holding Objects, TreeMap                                    |
-| [Wutang Financial]()                                         | Currency Converter, TDD, Single Responsibility              |
+| [Wutang Financial]( CR-MesoLab-OOP-WuTangFinancial)          | Currency Converter, TDD, Single Responsibility              |
 | [OOP-Duplicate Deleter]()                                    |                                                             |
 | [OOP-Testing Person Class]()                                 |                                                             |
 | [OOP-Graded Students]()                                      |                                                             |
