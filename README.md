@@ -22,8 +22,8 @@ These projects catalog my progression through the bootcamp ordered according to 
 | [Algorithm Challenge: Playlist]( /PlaylistChallenge)         | convert string array to arraylist, indexOf(), lastIndexOf() |
 | [Research Report: ]( /JavaZipBook-v1)                        | Research Report Random                                      |
 | [OOP-Duplicate Deleter TDD]() Fix me                         | Arrays, loops, basic composition, interfaces                |
-| [Composition Phone Book]()                                   |                                                             |
-| [Wutang Financial]()                                         |                                                             |
+| [Composition Phone Book]( /CR-MicroLabs-Composition-PhoneBook) | Holding Objects, TreeMap                                    |
+| [Wutang Financial]()                                         | Currency Converter, TDD, Single Responsibility              |
 | [OOP-Duplicate Deleter]()                                    |                                                             |
 | [OOP-Testing Person Class]()                                 |                                                             |
 | [OOP-Graded Students]()                                      |                                                             |
