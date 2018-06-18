@@ -18,7 +18,7 @@ These projects catalog my progression through the bootcamp ordered according to 
 | [fundamentals: Array Drills 2]( /CR-MicroLabs-Arrays-StringArrayUtilities) | More Array Drills             |
 | [fundamentals: Objects]( /CR-MesoLabs-Arrays-PersonDetails)  | Iterating array of objects    |
 | [fundamentals: Classes]( /DiceyLab)                          | Classes, hashmap              |
-| [Algorithm Challenge: Crypt]()                               | simple crypt                  |
+| [Algorithm Challenge: Crypt]( /SimpleCrypt)                  | ROT13 encrypt decrypt         |
 | [Algorithm Challenge: Playlist]()                            | playlist challenge            |
 | [Research Report: ]()                                        | Javazipbook                   |
 | [Duplicate Deleter TDD]()                                    |                               |
