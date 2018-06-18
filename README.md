@@ -17,7 +17,7 @@ These projects catalog my progression through the bootcamp ordered according to 
 | [fundamentals: Array Drills]( /FundamentalDrills-Part1)      | Array Drills                  |
 | [fundamentals: Array Drills 2]( /CR-MicroLabs-Arrays-StringArrayUtilities) | More Array Drills             |
 | [fundamentals: Objects]( /CR-MesoLabs-Arrays-PersonDetails)  | Iterating array of objects    |
-| [fundamentals: Classes]()                                    | dicey lab                     |
+| [fundamentals: Classes]( /DiceyLab)                          | Classes, hashmap              |
 | [Algorithm Challenge: Crypt]()                               | simple crypt                  |
 | [Algorithm Challenge: Playlist]()                            | playlist challenge            |
 | [Research Report: ]()                                        | Javazipbook                   |
