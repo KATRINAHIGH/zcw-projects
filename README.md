@@ -13,7 +13,7 @@ These projects catalog my progression through the bootcamp ordered according to 
 | [fundamentals 3]( /ZCW-MicroLabs-JavaFundamentals-SumOrProduct) | User input, sum or product    |
 | [fundamentals 4, Guessing Game]( /ZCW-MicroLabs-JavaFundamentals-TooLargeTooSmall) | User input, random object     |
 | [fundamentals 5](/CR-MicroLabs-Loops-NumbersTrianglesTables) | Loops                         |
-| [fundamentals 6]()                                           | String Drills                 |
+| [fundamentals 6](FundamentalDrills-Part2)                    | String Drills                 |
 | [fundamentals 7]()                                           | Array Drills                  |
 | [fundamentals 8]()                                           | More Array Drills             |
 |                                                              |                               |
