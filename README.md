@@ -21,7 +21,7 @@ These projects catalog my progression through the bootcamp ordered according to 
 | [Algorithm Challenge: Crypt]( /SimpleCrypt)                  | ROT13 encrypt decrypt                                       |
 | [Algorithm Challenge: Playlist]( /PlaylistChallenge)         | convert string array to arraylist, indexOf(), lastIndexOf() |
 | [Research Report: ]( /JavaZipBook-v1)                        | Research Report Random                                      |
-| [OOP-Duplicate Deleter TDD]()                                | Arrays, loops, basic composition, interfaces                |
+| [OOP-Duplicate Deleter TDD]() Fix me                         | Arrays, loops, basic composition, interfaces                |
 | [Composition Phone Book]()                                   |                                                             |
 | [Wutang Financial]()                                         |                                                             |
 | [OOP-Duplicate Deleter]()                                    |                                                             |
