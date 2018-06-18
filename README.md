@@ -15,7 +15,7 @@ These projects catalog my progression through the bootcamp ordered according to 
 | [fundamentals 5](/CR-MicroLabs-Loops-NumbersTrianglesTables) | Loops                         |
 | [fundamentals 6](FundamentalDrills-Part2)                    | String Drills                 |
 | [fundamentals 7]( /FundamentalDrills-Part1)                  | Array Drills                  |
-| [fundamentals 8]()                                           | More Array Drills             |
+| [fundamentals 8]( /CR-MicroLabs-Arrays-StringArrayUtilities) | More Array Drills             |
 |                                                              |                               |
 |                                                              |                               |
 |                                                              |                               |
