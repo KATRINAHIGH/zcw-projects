@@ -10,8 +10,8 @@ These projects catalog my progression through the bootcamp ordered according to 
 | [forking](/ CR-MicroLabs-Git-MyFirstFork)                    | Additional Forking excercise  |
 | [fundamentals 1]( CR-MicroLabs-JavaFundamentals-DanDoBetterDrills) | Primitives, strings, methods, |
 | [fundamentals 2, Guessing Game]( ZCW-MicroLabs-JavaFundamentals-TooLargeTooSmall) | User input, random object     |
-| [fundamentals 3]()                                           | User input, sum or product    |
-| [fundamentals 4]()                                           | User input sum                |
+| [fundamentals 3]( ZCW-MicroLabs-JavaFundamentals-SumOrProduct) | User input, sum or product    |
+| [fundamentals 4]( )                                          | User input sum                |
 |                                                              |                               |
 |                                                              |                               |
 |                                                              |                               |
