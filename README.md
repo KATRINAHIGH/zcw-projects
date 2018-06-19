@@ -41,9 +41,9 @@ These projects catalog my progression through the bootcamp ordered according to 
 | [Algorithm Challenge](/ConwayGameOfLife)                     | Conway Game of Life                                         |
 | [Collections-Encapsulative Characters](/CR-MesoLabs-Collections-EncapsulativeCharacters) | Paren checker, opening closing char checker, Word count     |
 | [Concurrency](/CR-MesoLabs-Concurrency-MonkeyTypeWriter)     | Safe and unsafe copier                                      |
-| [Regex/Parser](/ZCW-Regex-Hamlet-Parser)                     | hamlet parser                                               |
-| [Parser]()                                                   | Jerkson                                                     |
-| [Assessment 3]()                                             |                                                             |
+| [Regex Parser/Swap words](/ZCW-Regex-Hamlet-Parser)          | Regex, pattern matcher, class loader                        |
+| [Data Parser/Read String Output List](/CR-MesoLab-Strings-JerkSON) | Regex, Stream                                               |
+| [Assessment 3](/JavaAssessment3)                             | Parse Json using Gson                                       |
 | [Http/Rest API]()                                            | You Are El                                                  |
 | [TypeScript Challenge]()                                     | Casino                                                      |
 | [Ionic App]()                                                | Asthma App                                                  |
