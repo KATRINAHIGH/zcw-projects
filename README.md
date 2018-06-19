@@ -45,7 +45,7 @@ These projects catalog my progression through the bootcamp ordered according to 
 | [Data Parser/Read String Output List](/CR-MesoLab-Strings-JerkSON) | Regex, Stream                                               |
 | [Assessment 3](/JavaAssessment3)                             | Parse JSON using Gson                                       |
 | [Http/Rest API](YouAreEll)                                   | REST API, HTTP protocol,  JSON                              |
-| [TypeScript Challenge]()                                     | Casino                                                      |
+| [TypeScript Challenge](/CR-MacroLabs-TypeScript-Casino)      | Challenged to learn and apply a new language in a weekend   |
 | [Ionic App]()                                                | Asthma App                                                  |
 | [Assessment 4 ]()                                            | Typescript                                                  |
 | [ZipFlash]()                                                 | Lexicon Flash Cards to Study                                |
