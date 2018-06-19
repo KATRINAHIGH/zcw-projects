@@ -41,7 +41,7 @@ These projects catalog my progression through the bootcamp ordered according to 
 | [Algorithm Challenge](/ConwayGameOfLife)                     | Conway Game of Life                                         |
 | [Collections-Encapsulative Characters](/CR-MesoLabs-Collections-EncapsulativeCharacters) | Paren checker, opening closing char checker, Word count     |
 | [Concurrency](/CR-MesoLabs-Concurrency-MonkeyTypeWriter)     | Safe and unsafe copier                                      |
-| [Regex/Parser]()                                             | hamlet parser                                               |
+| [Regex/Parser](/ZCW-Regex-Hamlet-Parser)                     | hamlet parser                                               |
 | [Parser]()                                                   | Jerkson                                                     |
 | [Assessment 3]()                                             |                                                             |
 | [Http/Rest API]()                                            | You Are El                                                  |
