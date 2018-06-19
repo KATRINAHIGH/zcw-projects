@@ -51,12 +51,12 @@ These projects catalog my progression through the bootcamp ordered according to 
 | [ZipFlash](/ZipFlash)                                        | Lexicon Flash Cards to Study                                |
 | [Spring-Quick Poll App](/CR-MacroLabs-Spring-QuickPollApplication) | Learning spring framework, postman testing                  |
 | [Directory Web Features](/DirectoryWebFeatures)              | Lecture                                                     |
-| [Interview Problem 1]()                                      |                                                             |
-| [Interview Problem 2]()                                      |                                                             |
-| [Interview Problem 3]()                                      |                                                             |
-| [Interview Problem 4]()                                      |                                                             |
-| [Interview Problem 5]()                                      |                                                             |
-| [Interview Problem 6]()                                      |                                                             |
+| [Interview Problem 1](/ZCW-Interview-Problem1)               | Replace char from a string. Use iteration & recursion. TDD  |
+| [Interview Problem 2](/ZCW-Interview-Problem2)               |                                                             |
+| [Interview Problem 3](/ZCW-Interview-Problem3)               |                                                             |
+| [Interview Problem 4](/ZCW-Interview-Problem4)               |                                                             |
+| [Interview Problem 5](/ZCW-Interview-Problem5)               |                                                             |
+| [Interview Problem 6](/ZCW-Interview-Problem6)               |                                                             |
 | [Exam Portal]()                                              |                                                             |
 |                                                              |                                                             |
 |                                                              |                                                             |
