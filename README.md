@@ -37,8 +37,8 @@ These projects catalog my progression through the bootcamp ordered according to 
 | [Assessment 2]( /JavaAssessmen2Final)                        | Interfaces, Algorithms, Enums, Git                          |
 | [Generic-Array Utility](/CR-MesoLabs-Generics-ArrayUtility)  | Covariant Generics, Arrays.copyOf()                         |
 | [Generic-Array List](/CR-MicroLabs-Generics-MyArrayList)     | implement ArrayList and Set from scratch                    |
-| [Generic-Data Sructures](ZCW-MesoLabs-Generics-GenericDataStructures) |                                                             |
-| [Algorithm Challenge]                                        | Conway Game of Life                                         |
+| [Generic-Data Sructures](/ZCW-MesoLabs-Generics-GenericDataStructures) | 9 generics excercises                                       |
+| [Algorithm Challenge](/ConwayGameOfLife)                     | Conway Game of Life                                         |
 | [Collections-Encapsulative Characters]()                     |                                                             |
 | [Concurrency]()                                              | monkey typewriter                                           |
 | [Regex/Parser]()                                             | hamlet parser                                               |
