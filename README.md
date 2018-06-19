@@ -65,3 +65,4 @@ These projects catalog my progression through the bootcamp ordered according to 
 |                                                              |                                                             |
 |                                                              |                                                             |
 
+# sql-growth
