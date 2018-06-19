@@ -29,35 +29,35 @@ These projects catalog my progression through the bootcamp ordered according to 
 | [OOP-Graded Students]( /CR-MesoLabs-OOP-GradedStudents)      | Classes, data encapsulation, comparator interface           |
 | [OOP-SuperHumans-2]( /OOP-SuperHumans-2)                     | Inheritance, interfaces, TDD                                |
 | [OOP-Interfaces-ComparablePets]( /CR-MesoLabs-Interfaces-ComparablePets) | Polymorphism, comparator, comparable                        |
-| [Assessment 1]()                                             |                                                             |
-|                                                              |                                                             |
-|                                                              |                                                             |
-|                                                              |                                                             |
-|                                                              |                                                             |
-|                                                              |                                                             |
-|                                                              |                                                             |
-|                                                              |                                                             |
-|                                                              |                                                             |
-|                                                              |                                                             |
-|                                                              |                                                             |
-|                                                              |                                                             |
-|                                                              |                                                             |
-|                                                              |                                                             |
-|                                                              |                                                             |
-|                                                              |                                                             |
-|                                                              |                                                             |
-|                                                              |                                                             |
-|                                                              |                                                             |
-|                                                              |                                                             |
-|                                                              |                                                             |
-|                                                              |                                                             |
-|                                                              |                                                             |
-|                                                              |                                                             |
-|                                                              |                                                             |
-|                                                              |                                                             |
-|                                                              |                                                             |
-|                                                              |                                                             |
-|                                                              |                                                             |
+| [Assessment 1]( ZipCodeWilmington-Cohort-4.0-Java-Assessment-1) | assessment covered all the above topics                     |
+| [Exceptions and Logging]()                                   |                                                             |
+| [OOP-InstructorStudentClassroom]()                           |                                                             |
+| [FarmerFroilan]()                                            |                                                             |
+| [Pre-Assessment 2]()                                         |                                                             |
+| [Assessment 2]()                                             |                                                             |
+| [Generic-Array Utility]()                                    |                                                             |
+| [Generic-Array List]()                                       |                                                             |
+| [Generic-Data Sructures]()                                   |                                                             |
+| [Algorithm Challenge]                                        | Conway Game of Life                                         |
+| [Collections-Encapsulative Characters]()                     |                                                             |
+| [Concurrency]()                                              | monkey typewriter                                           |
+| [Regex/Parser]()                                             | hamlet parser                                               |
+| [Parser]()                                                   | Jerkson                                                     |
+| [Assessment 3]()                                             |                                                             |
+| [Http/Rest API]()                                            | You Are El                                                  |
+| [TypeScript Challenge]()                                     | Casino                                                      |
+| [Ionic App]()                                                | Asthma App                                                  |
+| [Assessment 4 ]()                                            | Typescript                                                  |
+| [ZipFlash]()                                                 | Lexicon Flash Cards to Study                                |
+| [Spring-Quick Poll App]()                                    |                                                             |
+| [Directory Web Features]()                                   |                                                             |
+| [Interview Problem 1]()                                      |                                                             |
+| [Interview Problem 2]()                                      |                                                             |
+| [Interview Problem 3]()                                      |                                                             |
+| [Interview Problem 4]()                                      |                                                             |
+| [Interview Problem 5]()                                      |                                                             |
+| [Interview Problem 6]()                                      |                                                             |
+| [Exam Portal]()                                              |                                                             |
 |                                                              |                                                             |
 |                                                              |                                                             |
 |                                                              |                                                             |
