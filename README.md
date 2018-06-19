@@ -26,10 +26,10 @@ These projects catalog my progression through the bootcamp ordered according to 
 | [Wutang Financial]( CR-MesoLab-OOP-WuTangFinancial)          | Currency Converter, TDD, Single Responsibility              |
 | [TDD-Duplicate Deleter](/DuplicateDeleterTDD)                | TDD, generics, interfaces                                   |
 | [OOP-Testing Person Class]( /CR-MicroLabs-OOP-TestingPersonClass) | TDD, objects, classes                                       |
-| [OOP-Graded Students]()                                      |                                                             |
+| [OOP-Graded Students]( /CR-MesoLabs-OOP-GradedStudents)      | Classes, data encapsulation, comparator interface           |
 | [OOP-SuperHumans-2]()                                        |                                                             |
 | [OOP-Interfaces]()                                           |                                                             |
-| [Assessment 1]                                               |                                                             |
+| [Assessment 1]()                                             |                                                             |
 |                                                              |                                                             |
 |                                                              |                                                             |
 |                                                              |                                                             |
