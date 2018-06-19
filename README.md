@@ -7,7 +7,7 @@ These projects catalog my progression through the bootcamp ordered according to 
 | ------------------------------------------------------------ | ----------------------------------------------------------- |
 | [console](/CR-MesoLabs-Console)                              | Terminal Commands                                           |
 | [forking]( /Spoon-Knife)                                     | Github Forking                                              |
-| [forking](/ CR-MicroLabs-Git-MyFirstFork)                    | Additional Forking excercise                                |
+| [forking](/CR-MicroLabs-Git-MyFirstFork)                     | Additional Forking excercise                                |
 | [fundamentals: Strings]( /CR-MicroLabs-JavaFundamentals-DanDoBetterDrills) | Primitives, strings, methods,                               |
 | [fundamentals 2]( /ZCW-MicroLabs-JavaFundamentals-SumOfInput) | User input sum                                              |
 | [fundamentals 3]( /ZCW-MicroLabs-JavaFundamentals-SumOrProduct) | User input, sum or product                                  |
@@ -32,8 +32,8 @@ These projects catalog my progression through the bootcamp ordered according to 
 | [Assessment 1]( ZipCodeWilmington-Cohort-4.0-Java-Assessment-1) | assessment covered all the above topics                     |
 | [Exceptions and Logging]( /CR-MicroLabs-ExceptionsAndLogging) | basics of exceptions and logging                            |
 | [OOP-InstructorStudentClassroom]( /CR-MacroLabs-OOP-InstructorStudentClassroom) | Inheritance, interfaces, singleton pattern                  |
-| [FarmerFroilan]()                                            |                                                             |
-| [Pre-Assessment 2]()                                         |                                                             |
+| [FarmerFroilan]( /CR-MesoLabs-Interfaces-FarmerFroilan)      | UML, multi-inheritance design                               |
+| [Pre-Assessment 2](/ZipCodeWilmington-Cohort-4.0-Java-PREAssessment-2) |                                                             |
 | [Assessment 2]()                                             |                                                             |
 | [Generic-Array Utility]()                                    |                                                             |
 | [Generic-Array List]()                                       |                                                             |
