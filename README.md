@@ -31,7 +31,7 @@ These projects catalog my progression through the bootcamp ordered according to 
 | [OOP-Interfaces-ComparablePets]( /CR-MesoLabs-Interfaces-ComparablePets) | Polymorphism, comparator, comparable                        |
 | [Assessment 1]( ZipCodeWilmington-Cohort-4.0-Java-Assessment-1) | assessment covered all the above topics                     |
 | [Exceptions and Logging]( /CR-MicroLabs-ExceptionsAndLogging) | basics of exceptions and logging                            |
-| [OOP-InstructorStudentClassroom]()                           | Inheritance, interfaces, singleton pattern                  |
+| [OOP-InstructorStudentClassroom]( /CR-MacroLabs-OOP-InstructorStudentClassroom) | Inheritance, interfaces, singleton pattern                  |
 | [FarmerFroilan]()                                            |                                                             |
 | [Pre-Assessment 2]()                                         |                                                             |
 | [Assessment 2]()                                             |                                                             |
