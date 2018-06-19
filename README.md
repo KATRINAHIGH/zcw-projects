@@ -48,7 +48,7 @@ These projects catalog my progression through the bootcamp ordered according to 
 | [TypeScript Challenge](/CR-MacroLabs-TypeScript-Casino)      | Challenged to learn and apply a new language in a weekend   |
 | [Ionic App](/AsthmaApp)                                      | Ionic, typescript, html, css, angular4                      |
 | [Assessment 4 ](/Typescript-assessment)                      | Set up jasmine and karma, hit http endpoints, unit test     |
-| [ZipFlash]()                                                 | Lexicon Flash Cards to Study                                |
+| [ZipFlash](/ZipFlash)                                        | Lexicon Flash Cards to Study                                |
 | [Spring-Quick Poll App]()                                    |                                                             |
 | [Directory Web Features]()                                   |                                                             |
 | [Interview Problem 1]()                                      |                                                             |
