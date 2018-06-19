@@ -1,0 +1,20 @@
+sudo: false
+language: java
+
+deploy:
+  provider: script
+  script:
+    - "mvn test -Dtest=BasicArrayUtilsTest"
+    - "mvn test -Dtest=BasicStringUtilsTest"
+    - "mvn test -Dtest=IntegerArrayUtilsTest"
+    - "mvn test -Dtest=IntegerUtilsTest"
+    - "mvn test -Dtest=RockPaperSissorsEvaluatorTest"
+    - "mvn test -Dtest=ArrayUtilsTest"
+    - "mvn test -Dtest=MultiplesDeleterTest"
+    - "mvn test -Dtest=StringUtilsTest"
+    - "mvn test -Dtest=CatTest"
+    - "mvn test -Dtest=DogTest"
+    - "mvn test -Dtest=PetOwnerTest"
+    - "mvn test -Dtest=PetTest"
+    - "mvn test -Dtest=JumperTest"
+    - "mvn test -Dtest=PalindromeTest"

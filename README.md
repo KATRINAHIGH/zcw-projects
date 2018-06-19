@@ -28,7 +28,7 @@ These projects catalog my progression through the bootcamp ordered according to 
 | [OOP-Testing Person Class]( /CR-MicroLabs-OOP-TestingPersonClass) | TDD, objects, classes                                       |
 | [OOP-Graded Students]( /CR-MesoLabs-OOP-GradedStudents)      | Classes, data encapsulation, comparator interface           |
 | [OOP-SuperHumans-2]( /OOP-SuperHumans-2)                     | Inheritance, interfaces, TDD                                |
-| [OOP-Interfaces]()                                           |                                                             |
+| [OOP-Interfaces-ComparablePets]( /CR-MesoLabs-Interfaces-ComparablePets) | Polymorphism, comparator, comparable                        |
 | [Assessment 1]()                                             |                                                             |
 |                                                              |                                                             |
 |                                                              |                                                             |
