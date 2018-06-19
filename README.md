@@ -33,9 +33,9 @@ These projects catalog my progression through the bootcamp ordered according to 
 | [Exceptions and Logging]( /CR-MicroLabs-ExceptionsAndLogging) | basics of exceptions and logging                            |
 | [OOP-InstructorStudentClassroom]( /CR-MacroLabs-OOP-InstructorStudentClassroom) | Inheritance, interfaces, singleton pattern                  |
 | [FarmerFroilan]( /CR-MesoLabs-Interfaces-FarmerFroilan)      | UML, multi-inheritance design                               |
-| [Pre-Assessment 2](/ZipCodeWilmington-Cohort-4.0-Java-PREAssessment-2) |                                                             |
-| [Assessment 2]()                                             |                                                             |
-| [Generic-Array Utility]()                                    |                                                             |
+| [Pre-Assessment 2](/ZipCodeWilmington-Cohort-4.0-Java-PREAssessment-2) | Enums, Generics                                             |
+| [Assessment 2]( /JavaAssessmen2Final)                        | Interfaces, Algorithms, Enums, Git                          |
+| [Generic-Array Utility](/CR-MesoLabs-Generics-ArrayUtility)  |                                                             |
 | [Generic-Array List]()                                       |                                                             |
 | [Generic-Data Sructures]()                                   |                                                             |
 | [Algorithm Challenge]                                        | Conway Game of Life                                         |
