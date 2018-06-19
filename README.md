@@ -40,7 +40,7 @@ These projects catalog my progression through the bootcamp ordered according to 
 | [Generic-Data Sructures](/ZCW-MesoLabs-Generics-GenericDataStructures) | 9 generics excercises                                       |
 | [Algorithm Challenge](/ConwayGameOfLife)                     | Conway Game of Life                                         |
 | [Collections-Encapsulative Characters](/CR-MesoLabs-Collections-EncapsulativeCharacters) | Paren checker, opening closing char checker, Word count     |
-| [Concurrency]()                                              | monkey typewriter                                           |
+| [Concurrency](/CR-MesoLabs-Concurrency-MonkeyTypeWriter)     | Safe and unsafe copier                                      |
 | [Regex/Parser]()                                             | hamlet parser                                               |
 | [Parser]()                                                   | Jerkson                                                     |
 | [Assessment 3]()                                             |                                                             |
