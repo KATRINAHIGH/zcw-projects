@@ -1,0 +1,52 @@
+<!--
+  Generated template for the RegisterPage page.
+
+  See http://ionicframework.com/docs/components/#navigation for more info on
+  Ionic pages and navigation.
+-->
+<ion-header>
+
+  <ion-navbar>
+    <ion-title>register</ion-title>
+  </ion-navbar>
+
+</ion-header>
+
+<!--used weather video as example of form-->
+<ion-content padding>
+  <ion-grid>
+    <ion-row>
+      <ion-col width-100>
+        <form (ngSubmit)="sendRegister()">
+          <ion-item>
+            <ion-label fixed>Email</ion-label>
+            <ion-input type="email" [(ngModel)]="email" name ="email"></ion-input>
+          </ion-item>
+          <ion-item>
+              <ion-label fixed>First Name</ion-label>
+              <ion-input type="text" [(ngModel)]="firstName" name ="firstName"></ion-input>
+            </ion-item>
+            <ion-item>
+                <ion-label fixed>City</ion-label>
+                <ion-input type="text" [(ngModel)]="city" name ="city"></ion-input>
+              </ion-item>
+              <ion-item>
+                  <ion-label fixed>State</ion-label>
+                  <ion-input type="text" [(ngModel)]="state" name ="state"></ion-input>
+                </ion-item>
+                <ion-item>
+                    <ion-label fixed>Password</ion-label>
+                    <ion-input type="password" [(ngModel)]="password" name ="password"></ion-input>
+                  </ion-item>
+                  <ion-item>
+                      <ion-label fixed>Confirm Password</ion-label>
+                      <ion-input type="password" [(ngModel)]="passwordConfirm" name ="passwordConfirm"></ion-input>
+                    </ion-item>
+                    <!--this is linked to ngSubmit and will run doRegister onclick-->
+                    <button ion-button type="submit">Register</button>
+        </form>
+      </ion-col>
+    </ion-row>
+  </ion-grid>
+
+</ion-content>

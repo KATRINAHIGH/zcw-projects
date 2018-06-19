@@ -1,0 +1,37 @@
+<!--
+  Generated template for the LoginPage page.
+
+  See http://ionicframework.com/docs/components/#navigation for more info on
+  Ionic pages and navigation.
+-->
+<ion-header>
+<!--removes back arrow from login page-->
+  <ion-navbar [hideBackButton]="true">
+    <ion-title>login</ion-title>
+  </ion-navbar>
+
+</ion-header>
+
+<!--need a form for email and password, submit login button, register button-->
+<ion-content padding>
+  <ion-grid>
+    <ion-row>
+      <ion-col width-100>
+      <form (ngSubmit)="postLogin()">
+          <ion-item>
+              <ion-label fixed>Email</ion-label>
+              <ion-input type="email" [(ngModel)]="email" name ="email"></ion-input>
+          </ion-item>
+          <ion-item>
+              <ion-label fixed>Password</ion-label>
+              <ion-input type="password" [(ngModel)]="password" name ="password"></ion-input>
+          </ion-item>
+      <!--this is linked to ngSubmit and will run doRegister onclick-->
+          <button ion-button type="submit">Login</button>
+      </form>
+      </ion-col>
+    </ion-row>
+  </ion-grid>
+<!--create button that on click will navigate to the registration page-->
+<button ion-button (click)="gotoRegistration()">Register</button>
+</ion-content>
