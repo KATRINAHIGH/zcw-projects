@@ -25,7 +25,7 @@ These projects catalog my progression through the bootcamp ordered according to 
 | [Composition Phone Book]( /CR-MicroLabs-Composition-PhoneBook) | Holding Objects, TreeMap                                    |
 | [Wutang Financial]( CR-MesoLab-OOP-WuTangFinancial)          | Currency Converter, TDD, Single Responsibility              |
 | [TDD-Duplicate Deleter](/DuplicateDeleterTDD)                | TDD, generics, interfaces                                   |
-| [OOP-Testing Person Class]()                                 |                                                             |
+| [OOP-Testing Person Class]( /CR-MicroLabs-OOP-TestingPersonClass) | TDD, objects, classes                                       |
 | [OOP-Graded Students]()                                      |                                                             |
 | [OOP-SuperHumans-2]()                                        |                                                             |
 | [OOP-Interfaces]()                                           |                                                             |
