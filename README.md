@@ -27,7 +27,7 @@ These projects catalog my progression through the bootcamp ordered according to 
 | [TDD-Duplicate Deleter](/DuplicateDeleterTDD)                | TDD, generics, interfaces                                   |
 | [OOP-Testing Person Class]( /CR-MicroLabs-OOP-TestingPersonClass) | TDD, objects, classes                                       |
 | [OOP-Graded Students]( /CR-MesoLabs-OOP-GradedStudents)      | Classes, data encapsulation, comparator interface           |
-| [OOP-SuperHumans-2]()                                        |                                                             |
+| [OOP-SuperHumans-2]( /OOP-SuperHumans-2)                     | Inheritance, interfaces, TDD                                |
 | [OOP-Interfaces]()                                           |                                                             |
 | [Assessment 1]()                                             |                                                             |
 |                                                              |                                                             |
