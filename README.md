@@ -35,8 +35,8 @@ These projects catalog my progression through the bootcamp ordered according to 
 | [FarmerFroilan]( /CR-MesoLabs-Interfaces-FarmerFroilan)      | UML, multi-inheritance design                               |
 | [Pre-Assessment 2](/ZipCodeWilmington-Cohort-4.0-Java-PREAssessment-2) | Enums, Generics                                             |
 | [Assessment 2]( /JavaAssessmen2Final)                        | Interfaces, Algorithms, Enums, Git                          |
-| [Generic-Array Utility](/CR-MesoLabs-Generics-ArrayUtility)  |                                                             |
-| [Generic-Array List]()                                       |                                                             |
+| [Generic-Array Utility](/CR-MesoLabs-Generics-ArrayUtility)  | Covariant Generics, Arrays.copyOf()                         |
+| [Generic-Array List](/CR-MicroLabs-Generics-MyArrayList)     |                                                             |
 | [Generic-Data Sructures]()                                   |                                                             |
 | [Algorithm Challenge]                                        | Conway Game of Life                                         |
 | [Collections-Encapsulative Characters]()                     |                                                             |
