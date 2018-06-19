@@ -39,7 +39,7 @@ These projects catalog my progression through the bootcamp ordered according to 
 | [Generic-Array List](/CR-MicroLabs-Generics-MyArrayList)     | implement ArrayList and Set from scratch                    |
 | [Generic-Data Sructures](/ZCW-MesoLabs-Generics-GenericDataStructures) | 9 generics excercises                                       |
 | [Algorithm Challenge](/ConwayGameOfLife)                     | Conway Game of Life                                         |
-| [Collections-Encapsulative Characters]()                     |                                                             |
+| [Collections-Encapsulative Characters](/CR-MesoLabs-Collections-EncapsulativeCharacters) | Paren checker, opening closing char checker, Word count     |
 | [Concurrency]()                                              | monkey typewriter                                           |
 | [Regex/Parser]()                                             | hamlet parser                                               |
 | [Parser]()                                                   | Jerkson                                                     |
